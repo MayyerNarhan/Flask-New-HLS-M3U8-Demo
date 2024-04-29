@@ -1,7 +1,3 @@
-Certainly! Below is the documentation for the Flask application code provided, explaining each part and its purpose:
-
----
-
 ## Flask Application with Video Player
 
 This Flask application serves a webpage containing a video player capable of playing an M3U8 stream. It utilizes the Video.js library for HTML5 video playback.
